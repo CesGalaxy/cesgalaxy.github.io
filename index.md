@@ -5,7 +5,7 @@ Realmente solo voy a usar esta web para cosas importantes como sorteos u otros. 
 
 No se que mas poner en la web y si sigues leyendo esto quiero pedirte que te **suscribas** y des **like**, ayuda mucho y no cuesta nada.
 # Blog
-### Servidore de Discord
+### Servidor de Discord
 > Toda la configuración del servidor de Discord está lista, recuerda que hay membresías para apoyar el canal (o también puedes usar los bits de twitch). Publicare cuando hago stream, subo un nuevo video o estoy jugando con seguidores. 
 > 
 > [Servidor de Discord (click aqui)](https://discord.gg/cKAteKk6WZ)
