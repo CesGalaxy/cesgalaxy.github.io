@@ -5,6 +5,11 @@ How I lost access to the previous web I have created this until the new one is f
 
 # Blog
 
+### Perfect
+> Without a doubt, what I like the most when making a desktop application is the translucent background.
+>
+> ![Screenshot](https://raw.githubusercontent.com/CesarPro90/website/main/Captura%20de%20pantalla%20(512).png)
+
 ### Discord server
 > You can go to my new discord server from:
 > 
